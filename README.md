@@ -1,4 +1,4 @@
-# H-Chat
+# H-Chat （氢聊天）
 这是一个非常nice的即时通讯工具
 ---
 宣传地址:[ H-Chat](https://610e0b4893b0b.site123.me/)
